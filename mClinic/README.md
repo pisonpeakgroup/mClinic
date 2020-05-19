@@ -31,12 +31,12 @@
 ## Screenshot
 
 <p align="center">
-  <img src = "https://github.com/ArtMin96/argon-social/blob/master/screenshots/Sign-in.png" width=200>
-  <img src = "https://github.com/ArtMin96/argon-social/blob/master/screenshots/Sign-up.png" width=200>
-  <img src = "https://github.com/ArtMin96/argon-social/blob/master/screenshots/Newsfeed.png" width=200>
-  <img src = "https://github.com/ArtMin96/argon-social/blob/master/screenshots/Profile.png" width=200>
-  <img src = "https://github.com/ArtMin96/argon-social/blob/master/screenshots/Messenger.png" width=200>
-  <img src = "https://github.com/ArtMin96/argon-social/blob/master/screenshots/Settings-basic-info.png" width=200>
-  <img src = "https://github.com/ArtMin96/argon-social/blob/master/screenshots/Settings-password.png" width=200>
-  <img src = "https://github.com/ArtMin96/argon-social/blob/master/screenshots/Settings-location.png" width=200>
+  <img src = "https://github.com/pisonpeakgroup/mClinic/edit/mClinicB/screenshots/Sign-in.png" width=200>
+  <img src = "https://github.com/pisonpeakgroup/mClinic/edit/mClinicB/screenshots/Sign-up.png" width=200>
+  <img src = "https://github.com/pisonpeakgroup/mClinic/edit/mClinicB/screenshots/Newsfeed.png" width=200>
+  <img src = "https://github.com/pisonpeakgroup/mClinic/edit/mClinicB/screenshots/Profile.png" width=200>
+  <img src = "https://github.com/pisonpeakgroup/mClinic/edit/mClinicB/screenshots/Messenger.png" width=200>
+  <img src = "https://github.com/pisonpeakgroup/mClinic/edit/mClinicB/screenshots/Settings-basic-info.png" width=200>
+  <img src = "https://github.com/pisonpeakgroup/mClinic/edit/mClinicB/screenshots/Settings-password.png" width=200>
+  <img src = "https://github.com/pisonpeakgroup/mClinic/edit/mClinicB/screenshots/Settings-location.png" width=200>
 </p>
