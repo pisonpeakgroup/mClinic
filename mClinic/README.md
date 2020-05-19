@@ -1,16 +1,16 @@
 <h1 align="center"> mClinic </h1> <br>
 <p align="center">
-  <a href="https://artmin96.github.io/argon-social/" target="_blank">
-    <img alt="mClinic" title="mClinic" src="https://github.com/ArtMin96/argon-social/blob/master/assets/images/logo-256x256.png" width="450">
+  <a href="www.pisonpeak.com.ng" target="_blank">
+    <img alt="mClinic" title="mClinic" src="www.pisonpeak.com.ng/blob/master/assets/images/logo-256x256.png" width="450">
   </a>
 </p>
 
 <p align="center">
-  Watch DEMO - v0.2
+  Watch DEMO - v0.1
 </p>
 
 <p align="center">
-  <a href="https://artmin96.github.io/argon-social/" target="_blank">
+  <a href="www.pisonpeak.com.ng" target="_blank">
     mClinic Network Design System
   </a>
 </p>
